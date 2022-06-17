@@ -1,5 +1,5 @@
 ## Hi there 👋, this is Sakib Rokoni
-### I AM A WEB DEVELOPER
+### WEB DEVELOPER
 ![I am a web developer](https://www.aalpha.net/wp-content/uploads/2021/08/cost-of-front-end-development.gif)
 
 I'm passionate about programming.

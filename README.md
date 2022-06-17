@@ -1,6 +1,6 @@
 ## Hi there 👋, this is Sakib Rokoni
 ### I AM A WEB DEVELOPER
-![I am a web developer](https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif)
+![I am a web developer](https://www.aalpha.net/wp-content/uploads/2021/08/cost-of-front-end-development.gif)
 
 I'm passionate about programming.
 

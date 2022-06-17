@@ -1,6 +1,6 @@
 ## Hi there 👋, this is Sakib Rokoni
 ### I AM A WEB DEVELOPER
-![I am a web developer](https://developer.huawei.com/system/modules/org.opencms.portal.template.core/resources/images/support/banner-pc.jpg)
+![I am a web developer](https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif)
 
 I'm passionate about programming.
 

@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **contactme@sakibrokoni.com**
 
-- 📄 Know about my experiences [Resume](shorturl.at/fhqTX)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1EkwwR3OgySrt5VjUFdPjhyvOyWChGEmb/view)
 
 - ⚡ Fun fact **Be thankful for everything that happens in your life; it’s all an experience .**
 

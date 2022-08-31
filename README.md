@@ -17,8 +17,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://www.linkedin.com/in/sakib-rokoni/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://bd.linkedin.com/in/sakib-rokoni" height="30" width="40" /></a>
 <a href="https://twitter.com/sakibrokoni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sakibrokoni" height="30" width="40" /></a>
-<a href="https://bd.linkedin.com/in/sakib-rokoni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://bd.linkedin.com/in/sakib-rokoni" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/sakibrokoni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/sakibrokoni" height="30" width="40" /></a>
 <a href="https://www.facebook.com/sakibrokoni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/sakibrokoni" height="30" width="40" /></a>
 <a href="https://www.instagram.com/sakib.rokoni/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/sakib.rokoni/" height="30" width="40" /></a>

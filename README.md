@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sakib Rokoni</h1>
-<h3 align="center">Full Stack Developer[MERN], ML Enthusiast</h3>
+<h4 align="center">Software Engineer @ Intelsense AI Limited</h4>
+<h3 align="center"> ML Enthusiast , Full Stack Developer [MERN] </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakibrokoni&label=Profile%20views&color=0e75b6&style=flat" alt="sakibrokoni" /> </p>
 

@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **contactme@sakibrokoni.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1i_4QfZqCqpMqrO54aBq0n9xLN21fWmcH/view?usp=drivesdk)
+- 📄 Know about my experiences [Resume]()
 
 - ⚡ Fun fact **Be thankful for everything that happens in your life; it’s all an experience .**
 
